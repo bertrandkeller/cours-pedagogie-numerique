@@ -1,6 +1,5 @@
 # Cours de pédagogie numérique
 
-
 Cours de pédagogie numérique en ligne
 
 ## Prérequis
@@ -10,7 +9,6 @@ Cours de pédagogie numérique en ligne
  4. Partager le document
 
 ## Présentation
-
 
 Bertrand Keller
 : École Université de Compiègne, Low-Tech, Générateurs de site statique, Bénévolat, Entreprise Individuelle, Écriture numérique, Conférences, Enseignant IUT. Le web responsable, Philosophie de la technique. GreenIT 
@@ -70,6 +68,7 @@ https://github.com/bundestag/gesetze/commits/master
  - https://www.village-justice.com/articles/blockchain-droit-auteur-concerne,29173.html
  - https://www.youtube.com/watch?v=KizblvpFk9E
 
+
 #### Annotation
 
  - https://via.hypothes.is/https://bertrandkeller.info/2020/04/21/paradoxe-de-la-s%C3%A9curit%C3%A9/
@@ -79,10 +78,8 @@ https://github.com/bundestag/gesetze/commits/master
 ***Tim Berners Lee (CERN). Mis le web en license libre.***
 => https://home.cern/fr/science/computing/birth-web
 
-***Une contre histoire de l'internet, Sylvain Bergère, 2013***
-L'expension d'internet a d'abord été faite par les hippies, c'est en 67 qu'elle commença. Les hippies, à savoir un mouvement de contreculture, prônant le partage et rejetant les valeurs conservatrices et bourgeoises comme celles de la propriété privée par exemple, se sont alors tournés vers internet, de manière à pouvoir faire communauté et échanger des informations de manière totalement libre. L'accès à l'information de se fait alors plus via la télévision et les journaux, contrôlés par l'Etat, mais directement de particuliers à particuliers, il n'est plus possible pour l'Etat de cacher des choses, l'information circulant librement. 
-Il n'y avait alors pas de propriété privée dans l'internet, et pas de mot de passe, Stallman a d'ailleurs été l'un de ceux qui se sont battus contre les mots de passe, qui privatisent l'internet en lui posant des limites d'accès, ce fut l'une de ses premières battailles contre la propriété privée dans l'internet. 
-À partir de là, les Etats ont commencé à s'intéresser aux hackers, aux "pirates", qui ont été  traqués et recrutés par les Etats de manière à pouvoir s'approprier cette nouvelle technologie ayant de plus en plus d'utilisateurs et contenant de plus en plus d'informations. Ce recrutement des pirates s'est très vite su, alors la communauté de pirates s'est très vite délitée et, au lieu de continuer les activités de bidouillages, s'est tournée vers les logiciels libres. 
+***Une contre histoire de l'internet, Sylvain Bergère, 2013*** 
+=> https://www.youtube.com/watch?v=MUTABXD8f24
 
 ## Références
 
@@ -111,6 +108,11 @@ Il n'y avait alors pas de propriété privée dans l'internet, et pas de mot de 
 ***Electronic Frontier Foundation***
 => https://fr.wikipedia.org/wiki/Electronic_Frontier_Foundation
 
+## Dépôt de données
+
+ 1. Hackmd comme dépôt de données (source)
+ 2. Affichage de contenu sous forme HTML
+ 3. Synchronisation avec un compte github
 
 ## [Notes]:
  1. Ecoles numérisées : https://www.telerama.fr/enfants/a-la-waldorf-school-ici,-pas-dordinateur-avant-la-quatrieme-ou-la-troisieme,n6408213.php - https://www.europe1.fr/sciences/michel-desmurget-denonce-le-temps-passe-sur-les-ecrans-chez-les-adolescents-cest-extravagant-et-hors-norme-3920728
